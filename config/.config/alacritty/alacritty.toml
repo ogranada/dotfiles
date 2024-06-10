@@ -1,0 +1,25 @@
+
+[window]
+
+opacity = 0.9
+
+padding.x = 8
+padding.y = 8
+
+decorations = "Full"
+decorations_theme_variant = "Dark" # "Light" # "Dark"
+
+[font]
+
+normal.family = "FiraCode Nerd Font"
+bold.family = "FiraCode Nerd Font"
+italic.family = "FiraCode Nerd Font"
+bold_italic.family = "FiraCode Nerd Font"
+size = 14.0
+
+[cursor]
+
+style.shape = "Block"
+style.blinking = "On"
+
+
