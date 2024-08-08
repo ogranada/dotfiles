@@ -81,5 +81,7 @@ function pssh() {
 
 # ALIAS
 alias gst="git status"
+alias gch="git checkout"
 alias glog="git log"
 alias vim="nvim"
+alias docker=podman
